@@ -3,7 +3,7 @@
 [![GitHub Follow](https://img.shields.io/github/followers/zeroverload?label=Follow&style=social)](https://github.com/zeroverload)
 [![Visitors](https://komarev.com/ghpvc/?username=zeroverload&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/zeroverload)
 
-I'm a student who is learning Computer Science. I'm passionate about everything unknow. I really enjoy turning ideas into reality through code.
+I'm a Computer Science student with a passion for exploring the unknown. I love the process of turning ideas into reality through code.
 
 ## 🛠️ My Tech Stack
 
