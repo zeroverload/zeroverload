@@ -11,7 +11,7 @@ I'm a Computer Science student with a passion for exploring the unknown. I love 
 |-----------------|------------------------------------------------------------------------------------------------------------|
 | **Languages**   | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-8c1c93?style=flat) |
 | **Platforms**   | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
-| **Tools**       | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Vivado](https://img.shields.io/badge/Xilinx_Vivado-F05A1C?style=flat) ![GDB](https://img.shields.io/badge/GDB-FF6F61?style=flat) |
+
 
 ## 🚀 Featured Projects
 
