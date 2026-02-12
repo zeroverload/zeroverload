@@ -18,7 +18,7 @@ I'm a Computer Science student with a passion for exploring the unknown. I love 
 Here are some projects I have made:
 
 -   **[LocalLifeReview](https://github.com/zeroverload/LocalLifeReview)** 
--   **[Smart Library System ](https://github.com/zeroverload/SmartLibrarySystem)** 
+-   **[Smart-Library-System-](https://github.com/zeroverload/Smart-Library-System-)** 
 
 > **[View All Projects](https://github.com/zeroverload?tab=repositories)**
 
