@@ -9,7 +9,7 @@ I'm a Computer Science student with a passion for exploring the unknown. I love 
 
 | Category        | Technologies                                                                                               |
 |-----------------|------------------------------------------------------------------------------------------------------------|
-| **Languages**   | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-8c1c93?style=flat) |
+| **Languages**   | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  |
 | **Platforms**   | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
 
 
@@ -17,9 +17,8 @@ I'm a Computer Science student with a passion for exploring the unknown. I love 
 
 Here are some projects I have made:
 
--   **[Simple CPU Design](https://github.com/zeroverload/simple-cpu-design)** - Designed and implemented a hardwired-logic CPU simulator with Verilog, deepening my understanding of computer architecture.
--   **[Shelllab](https://github.com/zeroverload/shelllab)** - A C-based Unix shell supporting job control, signal handling, and process management.
--   **[Library Management System](https://github.com/zeroverload/library-management)** - A console application built with C++ and OOP principles.
+-   **[LocalLifeReview](https://github.com/zeroverload/LocalLifeReview)** 
+-   **[Smart Library System ](https://github.com/zeroverload/SmartLibrarySystem)** 
 
 > **[View All Projects](https://github.com/zeroverload?tab=repositories)**
 
