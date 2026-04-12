@@ -17,8 +17,11 @@ I'm a Computer Science student with a passion for exploring the unknown. I love 
 
 Here are some projects I have made:
 
--   **[EchoSpot](https://github.com/zeroverload/EchoSpot)** 
--   **[Smart-Library-System-](https://github.com/zeroverload/Smart-Library-System-)** 
+-   **[EchoSpot](https://github.com/zeroverload/EchoSpot)**  
+-   **[Local_mind](https://github.com/zeroverload/Local_mind)**
+-   **[focus-todo](https://github.com/zeroverload/focus-todo)**
+  
+
 
 > **[View All Projects](https://github.com/zeroverload?tab=repositories)**
 
